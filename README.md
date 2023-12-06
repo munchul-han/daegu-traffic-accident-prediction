@@ -17,6 +17,8 @@ countrywide_accident.txt 파일이 100mb 이상이어서 zip으로 업로드 했
 https://dacon.io/competitions/official/236193/overview/description
 
 # 기여
+git, github, git fork 사용 방법을 ![wiki](https://github.com/munchul-han/daegu-traffic-accident-prediction/wiki/%EC%BD%94%EB%93%9C-%EA%B8%B0%EC%97%AC-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)에 작성하였습니다.
+
 fork 후 `origin` -> `upstream`으로 `Pull requests`를 올려주세요  
 참고자료 : https://brownbears.tistory.com/603  
 `main branch`는 [`Pull requests`](https://github.com/munchul-han/daegu-traffic-accident-prediction/pulls)만 가능합니다.  
